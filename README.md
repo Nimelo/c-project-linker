@@ -16,7 +16,8 @@ A simple tool which links a header and source files in a single file.
  - `java -jar c-project-linker -d DIRECTORY -o main.c`
  
  ## Exemplary output
-```Sources directory=/mnt/storage/repositories/spoj/problems/PRIME1
+```
+Sources directory=/mnt/storage/repositories/spoj/problems/PRIME1
 Output file name=merged-main.cc
 Excluded directories=[/build, /test]
 Header extensions=[h, hpp]
