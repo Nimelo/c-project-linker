@@ -24,7 +24,6 @@ Header extensions=[h, hpp]
 Sources extensions=[cc, cpp, c]
 
 Processing file=PrimeGenerator.h
-Processing file=merged-main.cc
 Processing file=main.cc
 Processing file=PrimeGenerator.cc
 Successfully saved linked file.
